@@ -9,10 +9,10 @@ This is the main page file of the Overwatch Meta website. It contains the basic 
 ### styles.css
 This is the css file that contains all the stylizing that is used by the various html files in this repository. 
 
-## Overwatch_circle_logo.svg.png
+### Overwatch_circle_logo.svg.png
 This is the image file used in the Main-1.html file.
 
-## Final Mockup Submission Austin Jones.docx
+### Final Mockup Submission Austin Jones.docx
 This word document contains 3 image files:
   * The final mockup of the websites home page
   * The color palette that will be used across the website
