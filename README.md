@@ -1,3 +1,5 @@
 # IMED265-OverwatchMeta
 
-This is my website that is consistenlty being worked on for IMED265. This website is about Overwatch 2 and the meta around character matchups.
+## Main-1.html
+This is the main page file of the Overwatch Meta website. It contains the basic information of Overwatch and what the website entails (This website is about the characters and the knowledge of what characters are good against one another.)
+
