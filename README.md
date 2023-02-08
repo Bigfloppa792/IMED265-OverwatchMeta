@@ -1,7 +1,6 @@
 # IMED265-OverwatchMeta
 
-## README.md
-This file contains information and basic documentation about the IMED265-OverwatchMeta repository by Austin Jones
+## This file contains information and basic documentation about the IMED265-OverwatchMeta repository by Austin Jones
 
 ### Main.html
 This is the main page file of the Overwatch Meta website. It contains the basic information of Overwatch and what the website entails (This website is about the characters and the knowledge of what characters are good against one another.)
