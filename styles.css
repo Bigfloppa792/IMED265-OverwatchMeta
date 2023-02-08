@@ -1,8 +1,36 @@
-#center {
+h1 {
     text-align: center;
 }
 
-#bigBorder {
+img {
+    height: 100px;
+    width: 100px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+
+pre {
+    font-family: serif;
+}
+
+p.bigtext {
+    text-align: center; 
+    box-sizing: border-box; 
+    border: 5px hidden; 
+    margin-left: 250px; 
+    margin-top: 250px; 
+    margin-right: 100px; 
+    font-weight: bold; 
+    font-size: xx-large;
+}
+
+p.credits {
+    text-align: center; 
+    font-size: 12px;
+}
+
+div.menuBorder {
     box-sizing: border-box;
     width: 200px;
     height: 600px;
@@ -10,7 +38,7 @@
     float: left;
 }
 
-#smallBorder {
+div.linkBorder {
     box-sizing: border-box;
     width: 160px;
     height: 270px;
@@ -19,16 +47,16 @@
     margin-top: 10px;
 }
 
-#bottomBorderLine {
+div.creditBorder {
+    box-sizing: border-box;
+    border: 5px solid;
+    width: 125px;
+    margin-left: 33px;
+    margin-top: 20px;
+}
+
+div.bottomBorderLine {
     box-sizing: border-box;
     height: 150px;
     border-bottom: 5px solid;
-}
-
-#image {
-    height: 100px;
-    width: 100px;
-    padding-bottom: 20px;
-    padding-top: 30px;
-    padding-left: 40px;
 }
