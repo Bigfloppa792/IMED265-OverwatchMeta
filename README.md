@@ -3,10 +3,13 @@
 ## README.md
 This file contains information and basic documentation about the IMED265-OverwatchMeta repository by Austin Jones
 
-### Main-1.html
+### Main.html
 This is the main page file of the Overwatch Meta website. It contains the basic information of Overwatch and what the website entails (This website is about the characters and the knowledge of what characters are good against one another.)
 
-### styles.css
+### Templates.html
+This is a base template file for easier creation of future webpages.
+
+### Styles.css
 This is the css file that contains all the stylizing that is used by the various html files in this repository. 
 
 ### Overwatch_circle_logo.svg.png
