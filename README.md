@@ -12,7 +12,7 @@ This is a base template file for easier creation of future webpages.
 This is the css file that contains all the stylizing that is used by the various html files in this repository. 
 
 ### Overwatch_circle_logo.svg.png
-This is the image file used in the Main-1.html file.
+This is the image file used in the Main.html file.
 
 ### Final Mockup Submission Austin Jones.docx
 This word document contains 3 image files:
