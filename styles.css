@@ -26,7 +26,7 @@ pre {
   font-family: serif;
 }
 
-p.bigText {
+.bigText {
   margin-left: 250px;
   margin-top: 50px;
   margin-right: 45px;
@@ -34,13 +34,13 @@ p.bigText {
   font-size: 35px;
 }
 
-p.credits {
+.credits {
   text-align: center;
   font-size: 13px;
   padding: 2px;
 }
 
-div.menuBorder {
+.menuBorder {
   box-sizing: border-box;
   width: 200px;
   height: 615px;
@@ -49,7 +49,7 @@ div.menuBorder {
   background-color: #a77464;
 }
 
-div.linkBorder {
+.linkBorder {
   box-sizing: border-box;
   width: 160px;
   height: 270px;
@@ -58,7 +58,7 @@ div.linkBorder {
   margin-top: 10px;
 }
 
-div.creditBorder {
+.creditBorder {
   box-sizing: border-box;
   border: 5px solid;
   width: 130px;
@@ -66,7 +66,7 @@ div.creditBorder {
   margin-top: 20px;
 }
 
-div.bottomBorderLine {
+.bottomBorderLine {
   box-sizing: border-box;
   height: 150px;
   border-bottom: 5px solid;
