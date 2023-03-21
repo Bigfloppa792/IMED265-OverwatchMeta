@@ -21,7 +21,7 @@ img {
 	padding-top: 30px;
 	padding-left: 40px;
 }
-
+ 
 pre {
 	font-family: serif;
 }
@@ -70,8 +70,9 @@ pre {
 	box-sizing: border-box;
 	height: 150px;
 	border-bottom: 5px solid;
-}
+} */
 
+/* Being used to hold color palette */
 h2 {
 	color: #343434;
 	color: #2f3061;
