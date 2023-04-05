@@ -69,7 +69,11 @@ pre {
 	box-sizing: border-box;
 	height: 150px;
 	border-bottom: 5px solid;
-} */
+}
+
+.heroInfoBulletList {
+	padding-left: 300px;
+}
 
 /* Being used to hold color palette */
 h2 {
