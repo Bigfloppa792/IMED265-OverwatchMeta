@@ -20,7 +20,7 @@ img {
 	padding-top: 30px;
 	padding-left: 40px;
 }
- 
+
 pre {
 	font-family: serif;
 }
@@ -72,7 +72,7 @@ pre {
 }
 
 .heroInfoBulletList {
-	padding-left: 220px;
+	padding-left: 50px;
 	font-size: 30px;
 }
 
@@ -82,17 +82,18 @@ pre {
 	float: left;
 }
 
-.firstColumnBullets {
-	float: left;
-	padding-left: 75px;
-	padding-right: 200px
+.imgRow {
+	display: flex;
 }
 
-.secondColumnBullets {
-	float: right;
-	padding-left: 75px;
-	padding-right: 200px;
-	/* padding-bottom: 350px; */
+.container {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+.column {
+	flex: 1;
 }
 
 /* Being used to hold color palette */
