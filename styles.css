@@ -96,6 +96,14 @@ pre {
 	flex: 1;
 }
 
+.counter {
+	list-style-type: square;
+}
+
+.counterInfo {
+	padding-left: 75px;
+}
+
 /* Being used to hold color palette */
 h2 {
 	color: #343434;
